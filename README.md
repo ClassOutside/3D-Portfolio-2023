@@ -2,6 +2,20 @@
 A 3D portfiolio example used to apply concepts commonly found in 3D websites built with ThreeJS
 
 ------------------------------------------------------------
+# How it works:
+
+The 3D portfolio webpage can be experienced locally by:
+  1. downloading the repository
+  2. run npm install (with npm for NodeJS)
+  3. visit localhost:3000
+
+The page includes functionality such as
+  - Scrolling along a track with the mouse wheel
+  - Tilting the camera to follow the mouse
+  - Moving the camera to a new position, and focus on an object, when the object is clicked.
+  - Animating an object after a click
+
+------------------------------------------------------------
 # Purpose:
 
 The purpose of this project was to apply a variety of concepts associated with ThreeJS and 3D software in a single project. 
@@ -22,20 +36,6 @@ Below is a variety of concepts covered, as well as videos covering them in more 
 - Non-Linear animations: https://youtu.be/UxFzVccwh0A
 - Bundle with webpack: https://youtu.be/ruN4fpibfMc
 - Automate local server restarting with nodemon: https://youtu.be/GGkLvZ0EN_8
-
-------------------------------------------------------------
-# How it works:
-
-The 3D portfolio webpage can be experienced locally by:
-  1. downloading the repository
-  2. run npm install (with npm for NodeJS)
-  3. visit localhost:3000
-
-The page includes functionality such as
-  - Scrolling along a track with the mouse wheel
-  - Tilting the camera to follow the mouse
-  - Moving the camera to a new position, and focus on an object, when the object is clicked.
-  - Animating an object after a click
 
 ------------------------------------------------------------
 # Credits:
