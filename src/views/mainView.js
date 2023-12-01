@@ -178,8 +178,6 @@ export async function setupScene(canvas) {
           window.location.href = buttonLinkAddresses.default_button_address;
         } else if (selectedObjectName.includes("002")) {
           window.location.href = buttonLinkAddresses.button_002_address;
-        } else if (selectedObjectName.includes("004")) {
-          window.location.href = buttonLinkAddresses.button_004_address;
         }
       }
     }
